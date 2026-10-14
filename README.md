@@ -4,7 +4,7 @@
 
 **Building scalable applications. Engineering robust architectures. Turning complex business requirements into reliable software solutions.**
 
-I'm a software development professional with **11+ years of experience** in designing, developing, and delivering web applications across SaaS, workforce compliance, logistics, asset tracking, maritime operations, business automation, and other business domains.
+I'm a software development professional with **12+ years of experience** in designing, developing, and delivering web applications across SaaS, workforce compliance, logistics, asset tracking, maritime operations, business automation, and other business domains.
 
 My expertise combines hands-on full-stack engineering with technical leadership, system architecture, API development, database optimization, third-party integrations, and end-to-end software delivery.
 
